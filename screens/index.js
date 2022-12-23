@@ -1,0 +1,8 @@
+export {default as FingerPrintAuth} from './FingerPrintAuth'
+export {default as Login} from './Login'
+export {default as OtpAuth} from './OtpAuth'
+export {default as Register} from './Register'
+export {default as SelectAuth} from './SelectAuth'
+export {default as Splash} from './Splash'
+export {default as SuccessAuth} from './SuccessAuth'
+export {default as TypingAuth} from './TypingAuth'
